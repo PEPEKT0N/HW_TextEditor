@@ -1,0 +1,11 @@
+C:\Users\Education\Desktop\WPF\HW_TextEditor\HW_TextEditor\bin\Debug\HW_TextEditor.exe.config
+C:\Users\Education\Desktop\WPF\HW_TextEditor\HW_TextEditor\bin\Debug\HW_TextEditor.exe
+C:\Users\Education\Desktop\WPF\HW_TextEditor\HW_TextEditor\bin\Debug\HW_TextEditor.pdb
+C:\Users\Education\Desktop\WPF\HW_TextEditor\HW_TextEditor\obj\Debug\HW_TextEditor.csproj.AssemblyReference.cache
+C:\Users\Education\Desktop\WPF\HW_TextEditor\HW_TextEditor\obj\Debug\HW_TextEditor.Form1.resources
+C:\Users\Education\Desktop\WPF\HW_TextEditor\HW_TextEditor\obj\Debug\HW_TextEditor.Properties.Resources.resources
+C:\Users\Education\Desktop\WPF\HW_TextEditor\HW_TextEditor\obj\Debug\HW_TextEditor.csproj.GenerateResource.cache
+C:\Users\Education\Desktop\WPF\HW_TextEditor\HW_TextEditor\obj\Debug\HW_TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Education\Desktop\WPF\HW_TextEditor\HW_TextEditor\obj\Debug\HW_TextEditor.exe
+C:\Users\Education\Desktop\WPF\HW_TextEditor\HW_TextEditor\obj\Debug\HW_TextEditor.pdb
+C:\Users\Education\Desktop\WPF\HW_TextEditor\HW_TextEditor\obj\Debug\HW_TextEditor.Form2.resources
